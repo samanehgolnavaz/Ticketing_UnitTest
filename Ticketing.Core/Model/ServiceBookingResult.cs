@@ -1,6 +1,6 @@
-﻿namespace Ticketing.Core
+﻿namespace Ticketing.Core.Model
 {
-    public class TicketBookingRequest
+    public class ServiceBookingResult
     {
         public string Name { get; set; }
         public string Family { get; set; }
